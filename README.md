@@ -61,7 +61,8 @@ Where robotics is not the end, but the beginning of dialogue.
 
 - 🔗 [Academic Website](https://haifengsun.netlify.app/)
 - ✉️ curiosity123hf@gmail.com
-- 🎓 IWIN-FINS @ SJTU
+- 🎓 [MVIG-RHOS @ SJTU AI](https://mvig-rhos.com/)
+- 🎓 [IWIN-FINS @ SJTU Robotics](https://iwin-fins.com/)
 
 ---
 
